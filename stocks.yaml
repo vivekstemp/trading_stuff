@@ -1,5 +1,9 @@
 stocks:
+- TLRY
+- QS
 - GHVI
+- WYNN
+- LYFT
 - NTES
 - AAPL
 - AFRM
@@ -7,8 +11,10 @@ stocks:
 - CRWD
 - PDD
 - TSLA
+- DKNG
 - CYBR
 - PLTR
+- GRWG
 - PYPL
 - SKLZ
 - PDAC
@@ -17,16 +23,22 @@ stocks:
 - FSRV
 - FUTU
 - GOOGL
+- ACCD
 - NCNO
 - PLAN
 - MSFT
+- DMYD
+- UPWK
+- PANW
 - ABNB
 - UBER
 - TWTR
+- CRM
 - STIC
 - SQ
 - DIS
 - VRM
+- LOTZ
 - CURI
 - AMAT
 - BLUE
