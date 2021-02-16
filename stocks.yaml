@@ -12,8 +12,8 @@ stocks:
 - BB
 - CRWD
 - PDD
-- TSLA
 - SFT
+- TSLA
 - DKNG
 - CYBR
 - PLTR
@@ -25,6 +25,7 @@ stocks:
 - GM
 - SBG
 - FSRV
+- DVA
 - FUTU
 - GOOGL
 - ACCD
@@ -39,6 +40,7 @@ stocks:
 - PINS,
 - ABNB
 - OKTA
+- CCIV
 - ROKU
 - FB
 - UBER
@@ -60,3 +62,4 @@ stocks:
 - BIDU
 - JCOM
 - FTOC
+- ATOM
