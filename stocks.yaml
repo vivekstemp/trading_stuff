@@ -1,13 +1,15 @@
 stocks:
+- AMZN
+- SHOP
 - STIC
 - PANW
-- ANGI,
+- ANSS,
 - SFT
 - GRWG
-- PDD
-- ANSS,
-- UBER,
-- FRPT
-- ACCD
 - CURI
+- ANGI,
+- FRPT
 - AMAT
+- ACCD
+- PDD
+- UBER,
