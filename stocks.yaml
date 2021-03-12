@@ -1,4 +1,5 @@
 stocks:
+- OZON
 - PLTR
 - NIO
 - ROKU
@@ -23,6 +24,7 @@ stocks:
 - TWLO
 - PINS
 - CPNG
+- SE
 - PDD
 - PANW
 - ANSS
